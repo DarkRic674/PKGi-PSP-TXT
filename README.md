@@ -25,7 +25,7 @@ en :
 Navigate to the extras menu and select Custom Launcher. If your region of PSP doesn’t have it, it would be listed in the Game menu.
 
 Press triangle in the Custom Launcher and press X on Files. 
-Navigate to the seplugins folder and press X on npdrm_free_mod.prx. A menu will appear to install the plugin. Select VSH to install the plugin. Press X on npdrm_free_mod.prx and select Game.
+Navigate to the seplugins folder and press X on npdrm_free_mod.prx. A menu will appear to install the plugin. Select VSH to install the plugin.
 A second menu will appear to choose where to save the configuration for the plugin. By default, save it to the /SEPLUGINS/PLUGINS.TXT.
 
 Press X on npdrm_free_mod.prx and select Game.
