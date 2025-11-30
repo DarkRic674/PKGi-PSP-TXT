@@ -39,6 +39,7 @@ Pressing triangle and going to the right most option will allow you to exit the 
 
 fr :
 Accédez au menu Extras et sélectionnez Custom Launcher. Si votre version de PSP ne le propose pas, il se trouve dans le menu Jeux.
+
 Appuyez sur triangle dans le Custom Launcher et sur X dans Files. 
 Accédez au dossier seplugins et appuyez sur X sur npdrm_free_mod.prx. Un menu d'installation s'affichera. Sélectionnez VSH.
 Un second menu apparaîtra pour vous permettre de choisir l'emplacement d'enregistrement de la configuration du plugin. Par défaut, elle sera enregistrée dans le fichier /SEPLUGINS/PLUGINS.TXT.
