@@ -35,7 +35,7 @@ Do the same for nploader_mod.prx.
 
 Press triangle to open the launcher menu and navigate to the right to Plugins. Press X to open the plugin list.
 If the above was done correctly, the installed plugin will be listed. Pressing right or left dpad will change to enable, disable or remove the plugin. This can also be done on the XMB under the Plugin Manager.
-Pressing triangle and going to the right most option will allow you to exit the custom launcher.
+Pressing triangle and going to the right most option will allow you to exit the Custom Launcher.
 
 fr :
 Accédez au menu Extras et sélectionnez Custom Launcher. Si votre version de PSP ne le propose pas, il se trouve dans le menu Jeux.
