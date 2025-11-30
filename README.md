@@ -34,7 +34,7 @@ A second menu will appear to choose where to save the configuration for the plug
 Do the same for nploader_mod.prx.
 
 Press triangle to open the launcher menu and navigate to the right to Plugins. Press X to open the plugin list.
-If the above was done correctly, the installed plugin will be listed. Pressing right or left dpad will change to enable, disable or remove the plugin. This can also be done on the XMB under the Plugin Manager.
+If the above was done correctly, the installed plugin will be listed. Pressing right or left dpad will change to enable, disable or remove the plugin. This can also be done on the XMB under the Plugins Manager.
 Pressing triangle and going to the right most option will allow you to exit the Custom Launcher.
 
 fr :
@@ -49,6 +49,6 @@ Un second menu apparaîtra pour vous permettre de choisir l'emplacement d'enregi
 
 Faites la même chose pour nploader_mod.prx.
 
-Appuyez sur triangle pour ouvrir le menu du lanceur et naviguez vers la droite jusqu'à « Plugins ». Appuyez sur X pour ouvrir la liste des plugins.
-Si la procédure a été correctement suivie, le plugin installé s'affichera. Les flèches directionnelles droite et gauche permettent d'activer, de désactiver ou de supprimer le plugin. Vous pouvez également effectuer ces opérations dans le XMB, sous « Plugin Manager ».
+Appuyez sur triangle pour ouvrir le menu du lanceur et naviguez vers la droite jusqu'à Plugins. Appuyez sur X pour ouvrir la liste des plugins.
+Si la procédure a été correctement suivie, le plugin installé s'affichera. Les flèches directionnelles droite et gauche permettent d'activer, de désactiver ou de supprimer le plugin. Vous pouvez également effectuer ces opérations dans le XMB, sous Plugins Manager.
 Appuyer sur la touche triangle et sélectionner l'option la plus à droite pour quitter le Custom Launcher.
